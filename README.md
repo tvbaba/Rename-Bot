@@ -26,7 +26,7 @@ status - Show Users Count in DB. (Admin Only)
 ```
 
 ### Support Group
-<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/zippercartoonistrequestgroup"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Deploy to Heroku
 Easy to Deploy to Heroku.
@@ -37,7 +37,7 @@ Easy to Deploy to Heroku.
 
 Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tvbaba/Rename-Bot)
 
 #### Thanks to [subinps](https://github.com/subinps) for helping
 #### Inspired from [@HK_Rename_Bot](https://t.me/HK_Rename_Bot) & [@AHToolsBot](https://t.me/AHToolsBot)
